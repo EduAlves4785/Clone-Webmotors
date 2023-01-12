@@ -11,6 +11,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React](https://pt-br.reactjs.org/)
 
+## Status
+
 <h4 align="left"> 
 	Concluído :white_check_mark:
 </h4>
