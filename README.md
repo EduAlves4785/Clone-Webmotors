@@ -12,5 +12,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </h4>
 
 Feito por Eduardo Alves :computer: Entre em contato!
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-(https://www.linkedin.com/in/deveduardo-alves/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+(https://www.linkedin.com/in/deveduardo-alves/)]
