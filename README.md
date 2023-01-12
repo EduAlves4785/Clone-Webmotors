@@ -1,6 +1,10 @@
 
 <h1 align="center">Clone Webmotors</h1>
 
+
+## Descrição do Projeto
+<p align="left">O projeto foi feito usando ReactJs e consome uma fake-api feita com json-server,onde estão armazenados os anúncios de veículos</p>
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
