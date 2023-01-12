@@ -7,9 +7,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React](https://pt-br.reactjs.org/)
 
-<h4 align="center"> 
+<h4 align="left"> 
 	Concluído :white_check_mark:
 </h4>
 
 Feito por Eduardo Alves :computer: Entre em contato!
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+(https://www.linkedin.com/in/deveduardo-alves/)
