@@ -5,6 +5,8 @@
 ## Descrição do Projeto
 <p align="left">O projeto foi feito usando ReactJs e consome uma fake-api feita com json-server,onde estão armazenados os anúncios de veículos</p>
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7009980904555098112?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
