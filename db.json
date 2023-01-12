@@ -1,0 +1,124 @@
+{
+  "Anuncios":[
+    {
+      "id":1,
+      "img":"data:image/jpeg;base64,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",
+      "Loc":"SP",
+      "Marca":"Fiat",
+      "Modelo":"Fiat Argo 2018",
+      "Estado":"Usado",
+      "KM":80.000,
+      "Valor":61900
+    },
+    {
+      "id":2,
+      "img":"https://4.bp.blogspot.com/-LKoi8cOTT0E/VsL7HuEhbDI/AAAAAAAAuGo/hqnqxAJ1Qq8/s1600/Fiat-Toro-1%2B%252828%2529.jpg",
+      "Loc":"RJ",
+      "Marca":"Fiat",
+      "Modelo":"Fiat Toro 2017",
+      "Estado":"Usado",
+      "KM":100.000,
+      "Valor":90000
+    },
+    {
+      "id":3,
+      "img":"https://cdn.motor1.com/images/mgl/AkBbNN/s3/chevrolet-cruze-rs-2023-brasil.jpg",
+      "Loc":"SC",
+      "Marca":"Chevrolet",
+      "Modelo":"Chevrolet Cruze 2023",
+      "Estado":"Novo",
+      "KM":0,
+      "Valor":140000
+    },
+    {
+      "id":4,
+      "img":"https://garagem360.com.br/wp-content/uploads/2019/06/00_capa-9.jpg",
+      "Loc":"SP",
+      "Marca":"Chevrolet",
+      "Modelo":"Chevrolet Prisma 2019",
+      "Estado":"Usado",
+      "KM":110.000,
+      "Valor":55900
+    },
+    {
+      "id":5,
+      "img":"https://i.pinimg.com/originals/cc/f6/df/ccf6df2f8015991d859c02854cae5dfa.jpg",
+      "Loc":"SP",
+      "Marca":"Honda",
+      "Modelo":"Honda HR-V 2016",
+      "Estado":"Usado",
+      "KM":95.000,
+      "Valor":88000
+    },
+    {
+      "id":6,
+      "img":"https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2022/202208/20220805/HONDA-CIVIC-1.8-LXS-16V-FLEX-4P-AUTOMATICO-wmimagem12333317520.jpg",
+      "Loc":"MG",
+      "Marca":"Honda",
+      "Modelo":"Honda Civic 2012",
+      "Estado":"Usado",
+      "KM":120.000,
+      "Valor":55000
+    },
+    {
+      "id":7,
+      "img":"https://www.ecompletocdn.com.br/i/fp/17/1184267_2_1612832668.jpg",
+      "Loc":"AM",
+      "Marca":"Ford",
+      "Modelo":"Ford Focus Sedan 2019",
+      "Estado":"Usado",
+      "KM":56.000,
+      "Valor":70000
+    },
+    {
+      "id":8,
+      "img":"https://carroslancamentos.com.br/wp-content/uploads/2019/01/novo-ford-territory.jpg",
+      "Loc":"MA",
+      "Marca":"Ford",
+      "Modelo":"Ford Territory 2023",
+      "Estado":"Novo",
+      "KM":0,
+      "Valor":224875
+    },
+    {
+      "id":9,
+      "img":"https://s2.glbimg.com/SHPRRJs5qvxHOxU98LA-p0DvbuE=/288x163:3569x2480/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/A/F/miB8sMRpijd33pm0opHw/vw-nivus-frente.jpeg",
+      "Loc":"SP",
+      "Marca":"Volkswagen",
+      "Modelo":"Volkswagen Nivus 2021",
+      "Estado":"Usado",
+      "KM":48.000,
+      "Valor":116000
+    },
+    {
+      "id":10,
+      "img":"https://3.bp.blogspot.com/-zzg4jcbE46E/XB6UMK-ixiI/AAAAAAAAP5I/nI3XWSUCleo_iqdGNJIQ2yHGXdeSzavPgCLcBGAs/s1600/VW-Golf-2008-Automatico%2B%25282%2529.jpg",
+      "Loc":"RJ",
+      "Marca":"Volkswagen",
+      "Modelo":"Volkswagen Golf 2008",
+      "Estado":"Usado",
+      "KM":118.000,
+      "Valor":33120
+    },
+    {
+      "id":11,
+      "img":"https://upload.wikimedia.org/wikipedia/commons/d/d2/2015_Nissan_Sentra_S_%286MT%29%2C_front_left.jpg",
+      "Loc":"MG",
+      "Marca":"Nissan",
+      "Modelo":"Nissan Sentra 2015",
+      "Estado":"Usado",
+      "KM":78.000,
+      "Valor":55990
+    },
+    {
+      "id":12,
+      "img":"https://img.lacakharga.com/public/large-image/images/2021/12/olx_61baa2b9d6b7d24b4d6a0c92_0.jpg",
+      "Loc":"PE",
+      "Marca":"Nissan",
+      "Modelo":"Nissan Grand Livina 2009",
+      "Estado":"Usado",
+      "KM":125.000,
+      "Valor":30000
+    }  
+  ]
+}
